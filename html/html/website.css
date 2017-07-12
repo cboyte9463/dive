@@ -1,0 +1,50 @@
+.blur {
+  width:140px;
+  height:60px;
+  /*position:absolute; left:100px;*/
+  background-color:#788599;
+  vertical-align:middle;
+  border:1px solid:#788599;
+  border-radius: 30px;
+  display:block;
+  margin-bottom: 100px;
+ }
+
+ .gorillaz{
+   width:300px;
+   height:60px;
+   background-color:#788599;
+   text-align:center;
+   vertical-align:middle;
+   border:1px solid:#788599;
+   border-radius: 30px;
+   display:block;
+ }
+ .utero{
+   width:300px;
+   height:60px;
+   background-color:#788599;
+   text-align:center;
+   vertical-align:middle;
+   border:1px solid:#788599;
+   border-radius: 30px;
+   display:block;
+}
+a{
+  color:white;
+}
+a {
+  font-size: 50px;
+   font-family: monospace;
+   text-decoration: none;
+}
+a:visited {
+  color:white;
+}
+a:hover {
+  text-decoration-line: underline;
+  font-weight: bold;
+}
+#blockmenu {
+  display:inline-block;
+}
